@@ -1018,6 +1018,7 @@ GameObject:
   - 114: {fileID: 1139837345}
   - 114: {fileID: 1139837344}
   - 225: {fileID: 1139837343}
+  - 95: {fileID: 1139837347}
   m_Layer: 5
   m_Name: HUDCanvas
   m_TagString: Untagged
@@ -1112,6 +1113,23 @@ Canvas:
   m_OverridePixelPerfect: 0
   m_SortingLayerID: 0
   m_SortingOrder: 0
+--- !u!95 &1139837347
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1139837341}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: c29412b752af529458c81b11d3ce9602, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
 --- !u!1 &1184483494
 GameObject:
   m_ObjectHideFlags: 0
