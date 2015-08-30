@@ -820,7 +820,7 @@ Prefab:
       objectReference: {fileID: 1913536421}
     - target: {fileID: 10835390, guid: 9b9e637bcdb822540b6927d7936c5155, type: 2}
       propertyPath: m_Intensity
-      value: 1.5
+      value: 2
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 9b9e637bcdb822540b6927d7936c5155, type: 2}
@@ -1123,7 +1123,7 @@ Animator:
   m_GameObject: {fileID: 1139837341}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: c29412b752af529458c81b11d3ce9602, type: 2}
+  m_Controller: {fileID: 9100000, guid: 7684b011ce5d1a74289a94d4e2ca434a, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
